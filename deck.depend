@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1629660845 source:/home/bagriel/C_Programming/deck/setting_deck.cpp
+	<iostream>
+	<string>
+	"deck.h"
+
+1629665470 /home/bagriel/C_Programming/deck/deck.h
+	<iostream>
+	<string>
+
+1629679310 source:/home/bagriel/C_Programming/deck/main.cpp
+	<iostream>
+	<new>
+	<locale.h>
+	"deck.h"
+	"clear_screen.h"
+
+1629662884 source:/home/bagriel/C_Programming/deck/player_settings.cpp
+	<iostream>
+	"deck.h"
+	<time.h>
+
+1629663650 /home/bagriel/C_Programming/deck/clear_screen.h
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<windows.h>
+
+1629755646 source:/home/bagriel/C_Programming/deck/playing.cpp
+	<iostream>
+	<typeinfo>
+	<string>
+	"deck.h"
+	<ctype.h>
+
